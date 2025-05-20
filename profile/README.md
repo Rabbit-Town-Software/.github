@@ -35,7 +35,8 @@ Our work is open-source, GPL-licensed, and designed to serve people — not our 
 
 - [**Misa Engine**](https://github.com/rabbit-town-software/misa-engine) – A 2D turn-based RPG engine for Java  
 - [**Convertly**](https://github.com/rabbit-town-software/convertly) – A sleek, ad-free unit converter  
-- [**CoinVert**](https://github.com/rabbit-town-software/coinvert) – A privacy-first currency converter  
+- [**CoinVert**](https://github.com/rabbit-town-software/coinvert) – A privacy-first currency converter
+- [**PlainQR**](https://github.com/rabbit-town-software/plainqr) – A no nonsense QR scanner
 - [**laceypresley.com**](https://github.com/rabbit-town-software/laceypresley.com) – Artist portfolio site  
 - [**rabbittownsoftware.com**](https://github.com/rabbit-town-software/rabbittownsoftware.com) – Our organization’s own homepage
 
