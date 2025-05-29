@@ -10,10 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-GPLv3-blue" alt="Open Source: GPLv3"/>
-  <img src="https://img.shields.io/badge/Built%20with%20love-by%20indies-ff69b4" alt="Built with love by indies"/>
   <img src="https://img.shields.io/badge/Focus-Privacy%20%26%20Simplicity-lightgrey" alt="Focus on privacy and simplicity"/>
-  <img src="https://img.shields.io/badge/Tracking-None-critical" alt="No tracking"/>
-
 </p>
 
 
