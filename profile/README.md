@@ -26,7 +26,7 @@
 We believe good software doesn't need bloat, surveillance, or friction.  
 Our work is open-source, GPL-licensed, and designed to serve people — not our pockets.
 
-## 📬 Contact
+## Contact
 
 We love hearing from other indie devs, artists, and tinkerers.  
 Questions? Ideas? Bug reports?
