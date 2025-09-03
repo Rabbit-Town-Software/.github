@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-GPLv3-blue" alt="Open Source: GPLv3"/>
-  <img src="https://img.shields.io/badge/Focus-Privacy%20%26%20Simplicity-lightgrey" alt="Focus on privacy and simplicity"/>
 </p>
 
 
@@ -18,17 +17,11 @@
 
 ## Who We Are
 
-**Rabbit Town Software** is a tiny, independent software group focused on:
-- Privacy-respecting apps
-- Game engines
-- Simple utilities that do one thing well
-
-We believe good software doesn't need bloat, surveillance, or friction.  
-Our work is open-source, GPL-licensed, and designed to serve people — not our pockets.
+**Rabbit Town Software** is an independent software group focused on making open source software taht doesn't sacrifice morality for usability.
 
 ## Contact
 
-We love hearing from other indie devs, artists, and tinkerers.  
+We would love to hear from you!  
 Questions? Ideas? Bug reports?
 
 → [support@rabbittownsoftware.com](mailto:support@rabbittownsoftware.com)
