@@ -17,7 +17,7 @@
 
 ## Who We Are
 
-**Rabbit Town Software** is an independent software group focused on making open source software taht doesn't sacrifice morality for usability.
+**Rabbit Town Software** is an independent software group focused on making open source software that doesn't sacrifice morality for usability.
 
 ## Contact
 
